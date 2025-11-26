@@ -21,7 +21,7 @@ PMO & USTC, 2021—2023. \
 Supervisors: <strong>Da-Ming Wei</strong> ([[韦大明]](https://pmo.cas.cn/sourcedb/cn/expert/200907/t20090724_2243681.html)) & <strong>Yi-Zhong Fan</strong> ([[范一中]](https://pmo.cas.cn/sourcedb/cn/expert/200907/t20090724_2243894.html)) \
 No Thesis and no Degree, Master to Ph.D. in summer of 2023. 
 
-<strong>Bachelor., Astronomy<\strong> \
+<strong>Bachelor., Astronomy</strong> \
 Yunnan University (YNU), 2017—2021. \
 YNU Motto:"会泽百家，至公天下(All kinds of wisdom, the world belongs to everyone)"\
 Outstanding Graduate of YNU. \
