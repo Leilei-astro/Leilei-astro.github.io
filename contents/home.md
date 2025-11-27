@@ -37,10 +37,6 @@ Dark Matter, Dark Energy, Sky Survey, Observational Cosmology, Gravitaional Stro
 Her hometown is Chongqing(重庆), a city full of endless delicious food. 
 
 - Researches: \
-Solar flares physics and observations, \
-High energy solar particles, \
-Hard X-ray solar emission, \
-Thermal and Non-thermal mechanism of flares, \
-Image alignment. 
+Solar flares physics and observations, High energy solar particles, Hard X-ray solar emission, Thermal and Non-thermal mechanism of flares, Image alignment. 
 
 
