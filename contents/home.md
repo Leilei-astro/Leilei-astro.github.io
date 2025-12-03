@@ -29,7 +29,7 @@ Undergraduate Science Project Advisor: <strong>Bing-Qiu Chen</strong> ([[陈丙�
 Bachelor Thesis Advisor: <strong>Peng-Fei Zhang</strong> ([[张鹏飞]](http://www.science.ynu.edu.cn/info/1152/2035.htm)) & <strong>Yi-Zhong Fan</strong> ([[范一中]](https://pmo.cas.cn/sourcedb/cn/expert/200907/t20090724_2243894.html)). 
 
 #### Research Interests
-Dark Matter, Dark Energy, Sky Survey, Observational Cosmology, Gravitaional Strong Lensing, X-Ray Astronomy, High red-shift Galaxies and First Star Formation.
+Dark Matter, Dark Energy, Sky Survey, Observational Cosmology, Gravitational Strong Lensing, X-Ray Astronomy, High red-shift Galaxies and First Star Formation.
 
 #### My wife [[Dr. Qiao Li(李巧)]](https://qiaoli-astro.github.io/)
 Dr. Li is a postdoc Solarphysicist in PMO. Her hometown is Chongqing(重庆), a city full of endless delicious food. \
