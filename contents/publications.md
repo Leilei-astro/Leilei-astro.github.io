@@ -6,6 +6,8 @@
 
 - Yi-Ying Wang, <strong>Lei. Lei</strong>, et al. Lensing amplitude anomaly and varying electron mass alleviate the Hubble and S8 tensions. <strong>JCAP accepted</strong> [[arXiv]](https://arxiv.org/abs/2508.19081)
 
+- Shu Niu, Qiang Yuan, Shui-Nai Zhang, <strong>Lei. Lei</strong>, et al. Detection of extended X-ray emission surrounding PSR B0656+14 with eROSITA. <strong>ApJ accepted</strong> [[arXiv]](https://arxiv.org/abs/2501.17046)
+
 #### Published
 
 - <strong>Lei Lei</strong>*, et al. (2025). A Dense Dark Matter Core of the Subhalo in the Strong Lensing System JVAS B1938+666. <strong>ApJL</strong>. [[DOI]](https://doi.org/10.3847/2041-8213/ae047c)[[arXiv]](https://arxiv.org/abs/2509.07808)
