@@ -32,7 +32,7 @@
 
 - Zi-Wei Wang*, <strong>Lei Lei</strong>, et al. (2023). The nanohertz stochastic gravitational wave background from cosmic string loops and the abundant high redshift massive galaxies. <strong>SCPMA</strong>. <strong>[[ESI highly cited]](https://mp.weixin.qq.com/s/CCWL1D8Jp5CX4Q3h29EBKg)</strong>  [[DOI]](https://doi.org/10.1007/s11433-023-2262-0)[[arXiv]](https://arxiv.org/abs/2306.17150)
 
-- Yi-Ying Wang, <strong>Lei. Lei</strong>, et al. Lensing amplitude anomaly and varying electron mass alleviate the Hubble and S8 tensions. <strong>JCAP accepted</strong> [[DOI]](https://doi.org/10.1088/1475-7516/2026/01/009) [[arXiv]](https://arxiv.org/abs/2508.19081)
+- Yi-Ying Wang, <strong>Lei. Lei</strong>, et al. Lensing amplitude anomaly and varying electron mass alleviate the Hubble and S8 tensions. <strong>JCAP</strong> [[DOI]](https://doi.org/10.1088/1475-7516/2026/01/009) [[arXiv]](https://arxiv.org/abs/2508.19081)
 
 - Hao Zhou, Zhi-Ping Jin*, Stefano Covino, <strong>Lei Lei</strong>, et al. (2023). GRB 080503: A Very Early Blue Kilonova and an Adjacent Nonthermal Radiation Component. <strong>ApJ</strong>. [[DOI]](https://doi.org/10.3847/1538-4357/acac9b)[[arXiv]](https://arxiv.org/abs/2212.08555)
 
