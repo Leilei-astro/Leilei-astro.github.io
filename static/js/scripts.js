@@ -1,8 +1,15 @@
 
-
 const content_dir = 'contents/'
 const config_file = 'config.yml'
-const section_names = ['home', 'publications', 'awards', 'links']
+// 注意：删除了 home，新增了 education, research, cv
+const section_names = ['education', 'research', 'publications', 'cv', 'awards', 'links']
+
+// 下面的代码保持不变...
+// (从 window.addEventListener 开始的代码都不用动)
+// ...
+// const content_dir = 'contents/'
+// const config_file = 'config.yml'
+// const section_names = ['home', 'publications', 'awards', 'links']
 
 
 window.addEventListener('DOMContentLoaded', event => {
