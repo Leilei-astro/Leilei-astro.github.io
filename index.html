@@ -4,198 +4,202 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-    <meta name="description" content="Academic Webpage" />
-    <meta name="author" content="Leilei-astro" />
-    <title id="title"></title>
+    <meta name="description" content="Lei Lei - Ph.D. Candidate in Astrophysics at PMO & USTC. Researching Dark Matter, Dark Energy, and Observational Cosmology." />
+    <meta name="author" content="Lei Lei" />
+    <title>Lei Lei - Astrophysics Researcher</title>
 
-    <!-- Icon -->
     <link rel="icon" type="image/x-icon" href="static/assets/favicon.ico" />
 
-    <!-- Bootstrap icons-->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" rel="stylesheet" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&family=Playfair+Display:ital,wght@0,700;1,600&display=swap" rel="stylesheet">
 
-    <!-- Google fonts-->
-    <link rel="preconnect" href="https://fonts.gstatic.com" />
-    <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,wght@0,600;1,600&amp;display=swap"
-        rel="stylesheet" />
-    <link
-        href="https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,300;0,500;0,600;0,700;1,300;1,500;1,600;1,700&amp;display=swap"
-        rel="stylesheet" />
-    <link href="https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,400;1,400&amp;display=swap"
-        rel="stylesheet" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.0/font/bootstrap-icons.css" rel="stylesheet" />
 
-    <!-- Core theme CSS (includes Bootstrap)-->
-    <link type="text/css" href="static/css/styles.css" rel="stylesheet" />
-    <link type="text/css" href="static/css/main.css" rel="stylesheet" />
-
-    <!-- Bootstrap core JS-->
-    <script type="text/javascript" src="static/js/bootstrap.bundle.min.js"></script>
-
-    <!-- For Compatability -->
-    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     
-    <!-- Markdown -->
-    <script type="text/javascript" src="static/js/marked.min.js"></script>
-
-    <!-- Mathematics -->
-    <script>
-        // See https://docs.mathjax.org/en/latest/index.html for more details.
-        MathJax = {
-            tex: {
-                packages: {},              // extensions to use
-                inlineMath: [              // start/end delimiter pairs for in-line math
-                    ['$', '$'],
-                    ['\\(', '\\)']
-                ],
-                displayMath: [             // start/end delimiter pairs for display math
-                    ['$$', '$$'],
-                    ['\\[', '\\]']
-                ],
-                processEscapes: false,      // use \$ to produce a literal dollar sign
-                processEnvironments: true, // process \begin{xxx}...\end{xxx} outside math mode
-                processRefs: true,         // process \ref{...} outside of math mode
-                digits: /^(?:[0-9]+(?:\{,\}[0-9]{3})*(?:\.[0-9]*)?|\.[0-9]+)/,    // pattern for recognizing numbers
-                tags: 'all',              // or 'ams' or 'all'
-                tagSide: 'right',          // side for \tag macros
-                tagIndent: '0.8em',        // amount to indent tags
-                useLabelIds: true,         // use label name rather than tag for ids
-                maxMacros: 10000,          // maximum number of macro substitutions per expression
-                maxBuffer: 5 * 1024,       // maximum size for the internal TeX string (5K)
-                // baseURL:                   // URL for use with links to tags (when there is a <base> tag in effect)
-                // (document.getElementsByTagName('base').length === 0) ? '' : String(document.location).replace(/#.*$/, ''),
-                formatError:               // function called when TeX syntax errors occur
-                    (jax, err) => jax.formatError(err)
-            }
-        };
-    </script>
-    <script type="text/javascript" id="MathJax-script" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js"></script>
-    <script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    <link href="static/css/main.css" rel="stylesheet" />
     
-    <!-- Core JS-->
-    <script type="text/javascript" src="static/js/scripts.js"></script>
-    <script type="text/javascript" src="static/js/js-yaml.min.js"></script>
-
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
 </head>
 
-<body id="page-top">
-    <!-- Navigation-->
-    <nav class="header navbar navbar-expand-lg navbar-light fixed-top shadow-sm" id="mainNav">
-        <div class="container px-5">
-            <a id="page-top-title" class="navbar-brand fw-bold" href="#page-top"></a>
-            <!-- <a href="#page-top"><img src="static/assets/img/CUMT_LOGO.svg" style="width: 11rem;"></a> -->
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive"
-                aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-                MENU
+<body id="page-top" data-bs-spy="scroll" data-bs-target="#mainNav" data-bs-offset="70">
+
+    <nav class="navbar navbar-expand-lg fixed-top navbar-light" id="mainNav">
+        <div class="container">
+            <a class="navbar-brand fw-bold" href="#page-top">LEI LEI</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive">
                 <i class="bi-list"></i>
             </button>
             <div class="collapse navbar-collapse" id="navbarResponsive">
-                <ul class="navbar-nav ms-auto me-4 my-3 my-lg-0">
-                    <li class="nav-item">
-                        <a class="nav-link me-lg-3" href="#page-top">HOME</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link me-lg-3" href="#publications">PUBLICATIONS</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link me-lg-3" href="#awards">AWARDS</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link me-lg-3" href="#links">Links</a>
-                    </li>
-
+                <ul class="navbar-nav ms-auto small fw-bold text-uppercase spacing-1">
+                    <li class="nav-item"><a class="nav-link" href="#home">About</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#education">Education</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#research">Research</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#publications">Publications</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#cv">CV</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#awards">Awards</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#links">Links</a></li>
                 </ul>
             </div>
         </div>
     </nav>
 
-    <!-- Top Section -->
-    <section class="top-section" style="background-image: url('static/assets/img/lensing.png');">
-        <div class="top-section-content">
-            <div class="container px-5">
-                <h2 id="top-section-bg-text" class="text-white display-3 lh-1 font-alt"></h2>
+    <header class="masthead">
+        <div class="container h-100">
+            <div class="row h-100 align-items-center justify-content-center text-center">
+                <div class="col-lg-8 align-self-end">
+                    <div class="avatar-container mb-4" data-aos="zoom-in">
+                        <img src="static/assets/img/leilei21.jpg" alt="Lei Lei" class="avatar-img shadow-lg">
+                    </div>
+                    <h1 class="text-white font-weight-bold display-3 mb-3" data-aos="fade-up">Lei Lei</h1>
+                    <hr class="divider my-4" />
+                </div>
+                <div class="col-lg-8 align-self-baseline">
+                    <p class="text-white-75 mb-5 fs-5" data-aos="fade-up" data-aos-delay="100">
+                        Ph.D. Candidate in Astrophysics <br>
+                        <span class="fst-italic smaller">PMO & USTC</span>
+                    </p>
+                    <a class="btn btn-primary btn-xl rounded-pill shadow" href="#home">More About Me</a>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <section class="page-section bg-white" id="home">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-8 text-center">
+                    <h2 class="section-heading mt-0">About Me</h2>
+                    <hr class="divider-primary my-4" />
+                    <div class="text-start lead text-muted">
+                        <p>
+                            I am Lei Lei, currently a Ph.D. candidate at <strong>Purple Mountain Observatory (PMO)</strong> and <strong>University of Science and Technology of China (USTC)</strong>.
+                        </p>
+                        <p>
+                            I was born and raised in two villages in Gansu (陇中) Province in western China, called BuDong (堡东, 天水) Village and CiWa (茨屲, 定西) Village, where there are brilliant starry skies, rolling mountains, shallow dams, and slender rivers.
+                        </p>
+                        <p class="mt-4">
+                            <strong>Contact:</strong> leilei[at]pmo.ac.cn
+                        </p>
+                        <div class="alert alert-light border mt-4">
+                            <i class="bi bi-heart-fill text-danger me-2"></i>
+                            <strong>Family:</strong> My wife is <a href="https://qiaoli-astro.github.io/" target="_blank">Dr. Qiao Li (李巧)</a>, a postdoc Solar Physicist at PMO.
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </section>
-    <!-- Top Section -->
 
-    <!-- Photo -->
-    <div class="container px-5">
-        <div id="avatar">
-            <img class="shadow" src="static/assets/img/leilei21.jpg">
-        </div>
-    </div>
-    <!-- Photo -->
-    
-    <!-- Home -->
-    <section class="bg-gradient-primary-to-secondary-light mt5 md5" id="home">
-        <div class="container px-5">
-            <header>
-                <h2 id="home-subtitle"> </h2>
-                <!-- <span class="bi bi-list"></span> -->
-            </header>
-            <div class="main-body" id="home-md"></div>
+    <section class="page-section bg-light" id="education">
+        <div class="container">
+            <div class="text-center mb-5">
+                <h2 class="section-heading">Education</h2>
+                <hr class="divider-primary my-4" />
+            </div>
+            <div class="row justify-content-center">
+                <div class="col-lg-9">
+                    <div class="education-timeline" id="education-md"></div>
+                </div>
+            </div>
         </div>
     </section>
-    <!-- Home -->
 
-    <section class="bg-gradient-primary-to-secondary-light" id="avatar-section">
-    <div class="container px-5">
-        <div class="avatar-container">
-            <img class="shadow large-avatar" src="static/assets/img/LeiQiao.jpg">
-        </div>
-    </div>
-    </section>
-    
-
-    <!-- Publications -->
-    <section class="bg-gradient-primary-to-secondary-gray mt5 md5" id="publications">
-        <div class="container px-5">
-            <header>
-                <h2 id="publications-subtitle"><i class="bi bi-file-text-fill"></i>&nbsp;PUBLICATIONS</h2>
-            </header>
-            <div class="main-body" id="publications-md"></div>
-
+    <section class="page-section" id="research">
+        <div class="container">
+            <div class="text-center mb-5">
+                <h2 class="section-heading">Research Interests</h2>
+                <hr class="divider-primary my-4" />
+                <p class="text-muted mb-0">Exploring Dark Matter, Dark Energy, and the Cosmos</p>
+            </div>
+            <div id="research-md"></div>
         </div>
     </section>
-    <!-- Publications  -->
 
-    <!-- Awards -->
-    <section class="bg-gradient-primary-to-secondary-light mt5 md5" id="awards">
-        <div class="container px-5">
-            <header>
-                <h2 id="awards-subtitle"><i class="bi bi-award-fill"></i>AWARDS </h2>
-            </header>
+    <section class="page-section bg-light" id="publications">
+        <div class="container">
+            <div class="text-center mb-5">
+                <h2 class="section-heading">Publications</h2>
+                <hr class="divider-primary my-4" />
+            </div>
+            <div class="row justify-content-center">
+                <div class="col-lg-10">
+                    <div class="text-center mb-4">
+                         <button class="btn btn-outline-primary rounded-pill px-4" type="button" data-bs-toggle="collapse" data-bs-target="#pub-collapse" aria-expanded="false">
+                            View Full Publications List <i class="bi bi-chevron-down ms-1"></i>
+                        </button>
+                    </div>
+                    <div class="collapse" id="pub-collapse">
+                        <div class="card border-0 shadow-sm p-4 bg-white">
+                            <div class="main-body" id="publications-md"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="page-section" id="cv">
+        <div class="container">
+            <div class="text-center mb-5">
+                <h2 class="section-heading">Curriculum Vitae</h2>
+                <hr class="divider-primary my-4" />
+            </div>
+            <div class="row justify-content-center">
+                <div class="col-lg-10">
+                    <div class="cv-paper shadow-lg p-5 bg-white">
+                        <div class="main-body" id="cv-md"></div>
+                        <div class="text-center mt-5 pt-3 border-top">
+                            <a href="static/assets/cv.pdf" class="btn btn-primary btn-lg rounded-pill px-5 shadow" download target="_blank">
+                                <i class="bi bi-file-earmark-pdf-fill me-2"></i> Download PDF
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="page-section bg-dark text-white" id="awards">
+        <div class="container text-center">
+            <h2 class="mb-4">Honors & Awards</h2>
+            <hr class="divider-light my-4" />
             <div class="main-body" id="awards-md"></div>
-
         </div>
     </section>
-    <!-- Awards -->
 
-
-    <!-- Links -->
-    <section class="bg-gradient-primary-to-secondary-light mt5 md5" id="links">
-        <div class="container px-5">
-            <header>
-                <h2 id="links-subtitle"><i class="bi bi-link-fill"></i>Links </h2>
-            </header>
+    <section class="page-section bg-light" id="links">
+        <div class="container text-center">
+            <h2 class="section-heading">Useful Links</h2>
+            <hr class="divider-primary my-4" />
             <div class="main-body" id="links-md"></div>
         </div>
     </section>
-    <!-- Links -->
 
-
-    <!-- Footer-->
-    <footer class="bg-bottom text-center py-5">
-        <div class="container px-5">
-            <div class="text-white-50 small">
-                <div id="copyright-text" class="mb-2"></div>
-                <a id="github-link" href="https://github.com/Leilei-astro">Github</a>
-                <span class="mx-1">&middot;</span>
-                <a id="license-link" href="https://github.com/Leilei-astro/leilei.github.io/blob/main/LICENSE">License</a>
+    <footer class="bg-dark py-5">
+        <div class="container text-center text-white-50">
+            <div class="small">Copyright &copy; 2026 - Lei Lei</div>
+            <div class="mt-2">
+                <a href="https://github.com/Leilei-astro" class="text-white-50 mx-2"><i class="bi bi-github fs-4"></i></a>
+                <a href="mailto:leilei@pmo.ac.cn" class="text-white-50 mx-2"><i class="bi bi-envelope-fill fs-4"></i></a>
             </div>
         </div>
     </footer>
 
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script type="text/javascript" src="static/js/marked.min.js"></script>
+    <script type="text/javascript" src="static/js/js-yaml.min.js"></script>
+    <script>
+        AOS.init({ duration: 1000, once: true });
+        MathJax = {
+            tex: { inlineMath: [['$', '$'], ['\\(', '\\)']], displayMath: [['$$', '$$'], ['\\[', '\\]']], processEscapes: true },
+            svg: { fontCache: 'global' }
+        };
+    </script>
+    <script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    <script type="text/javascript" src="static/js/scripts.js"></script>
 </body>
-
 </html>
