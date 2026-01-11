@@ -9,11 +9,11 @@
             <div class="research-body">
                 <h3 class="research-title">Dark Matter & Substructures</h3>
                 <p class="research-desc">
-                    Investigating the nature of dark matter through N-body simulations and gravitational lensing. 
-                    Focusing on small-scale structures of dark matter halos to constrain warm dark matter mass.
+                    Investigating the nature of dark matter through JWST high red-shift galaxies and gravitational lensing. 
+                    Focusing on small-scale structures of dark matter halos to constrain self-interacting/cold/Fuzzy dark matter model.
                 </p>
                 <div class="tags-container">
-                    <span class="research-tag">N-body Simulation</span>
+                    <span class="research-tag">Dark Star</span>
                     <span class="research-tag">Strong Lensing</span>
                     <span class="research-tag">Dark Matter Halo</span>
                 </div>
