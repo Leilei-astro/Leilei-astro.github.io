@@ -9,6 +9,7 @@
             <div class="research-body">
                 <h3 class="research-title">Dark Matter</h3>
                 <p class="research-desc">
+                    Observations such as the CMB, strong gravitational lensing and rotation curves have confirmed the existence of dark matter, but its nature is still unknown. Different models propose that the properties of dark matter affect how it interacts with matter and is distributed, which allows us to explore or constrain the fundamental properties of dark matter through specific methods.
                     Investigating the nature of dark matter through JWST high red-shift galaxies. 
                     Detecting the dark matter halo density profile with gravitational lensing. 
                     Focusing on small-scale structures of dark matter halos to constrain self-interacting/cold/Fuzzy dark matter model.
@@ -34,7 +35,7 @@
             <div class="research-body">
                 <h3 class="research-title">Dark Energy</h3>
                 <p class="research-desc">
-                    At present, we do not know whether dark energy is a field or where it originates, so we need to consider whether it might be produced by some astrophysical process or whether it could be related to interactions within the standard particle physics model.
+                    At present, we do not know whether dark energy is a field or where it originates, so we need to consider whether it might be produced by some astrophysical process or whether it could be related to interactions within the standard particle physics model. There are various models of dark energy, some of which are closely related to research on dark matter, cosmic inflation, and particle physics. Based on these candidate models, we can identify or constrain the nature of dark energy by observing specific signals.
                 </p>
                 <div class="tags-container">
                     <span class="research-tag">Dark Energy Sources</span>
