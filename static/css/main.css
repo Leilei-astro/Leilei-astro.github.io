@@ -37,7 +37,7 @@ header.masthead {
     padding-top: 10rem;
     padding-bottom: 6rem;
     /* 确保你的 assets/img 文件夹里有 lensing.png */
-    background: linear-gradient(to bottom, rgba(26, 30, 46, 0.7) 0%, rgba(26, 30, 46, 0.9) 100%), url("../assets/img/lensing.png");
+    background: linear-gradient(to bottom, rgba(26, 30, 46, 0.7) 0%, rgba(26, 30, 46, 0.9) 100%), url("../assets/img/WebbBulletCluster.jpg");
     background-position: center;
     background-size: cover;
     min-height: 100vh;
