@@ -82,8 +82,9 @@
             <div class="research-body">
                 <h3 class="research-title">Sky Survey</h3>
                 <p class="research-desc">
-                    Utilizing data from high redshift observations (e.g., JWST/SKA) to measure cosmological parameters.
-                    Developing new method for cosmological model analysis.
+                    Survey strategy, sensitivity limit and identification of survey variable sources of survey telescopes.
+                    X-ray afterglow of gamma ray bursts, X-ray radiation of kilonovae and ultra-bright supernovae.
+                    Pulsar X-ray Halo.
                 </p>
                 <div class="tags-container">
                     <span class="research-tag">Telescopes</span>
