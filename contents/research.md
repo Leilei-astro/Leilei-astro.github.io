@@ -75,7 +75,7 @@
     <div class="row g-0 align-items-center flex-row-reverse">
         <div class="col-lg-5">
             <div class="research-img-wrapper">
-                <img src="static/assets/img/DEBH2.png" alt="Survey Projects">
+                <img src="static/assets/img/survey2.png" alt="Survey Projects">
             </div>
         </div>
         <div class="col-lg-7">
