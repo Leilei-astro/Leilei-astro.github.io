@@ -1,5 +1,5 @@
 ### Ph.D. in Astrophysics
-* **Purple Mountain Observatory (PMO) & USTC** (2023 — 2026)
+* **Purple Mountain Observatory (PMO) & University of Science and Technology of China (USTC)** (2023 — 2026)
 * Supervisors: **Yi-Zhong Fan** ([范一中](https://pmo.cas.cn/sourcedb/cn/expert/200907/t20090724_2243894.html))
 
 ### Master in Astrophysics
