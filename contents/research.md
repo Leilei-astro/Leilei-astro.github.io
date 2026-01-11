@@ -57,8 +57,8 @@
             <div class="research-body">
                 <h3 class="research-title">Observational Cosmology</h3>
                 <p class="research-desc">
-                    Utilizing data from high redshift observations (e.g., JWST/SKA) to measure cosmological parameters.
-                    Developing new method for cosmological model analysis.
+                    Cosmology is a rapidly advancing discipline. As suggested, we should have already entered the era of 'Cosmonoy.' Precise overall observations of the universe require the development of various new methods to obtain cosmology-independent measurements, thereby constraining cosmological models. In addition, acquiring new high-quality data is also an essential part of precision cosmology. a. Utilizing data from high redshift observations (e.g., JWST/SKA) to measure cosmological parameters.
+                    b. Developing new method for cosmological model analysis.
                 </p>
                 <div class="tags-container">
                     <span class="research-tag">Cosmological Model</span>
@@ -83,7 +83,7 @@
             <div class="research-body">
                 <h3 class="research-title">Sky Survey</h3>
                 <p class="research-desc">
-                    Survey strategy, sensitivity limit and identification of survey variable sources of survey telescopes.
+                    Sky surveys and the development of high-performance survey telescopes have enabled us to acquire data with greater statistical power. I have had the privilege of participating in research on several survey telescopes, and I am also using sky survey observations to study the properties of the universe. Additional key words: Survey strategy, sensitivity limit and identification of survey variable sources of survey telescopes.
                     X-ray afterglow of gamma ray bursts, X-ray radiation of kilonovae and ultra-bright supernovae.
                     Pulsar X-ray Halo.
                 </p>
