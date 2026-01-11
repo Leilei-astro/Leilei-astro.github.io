@@ -127,3 +127,9 @@ header.masthead {
 #awards-md h3 { color: #fff; margin-top: 1.5rem; font-size: 1.2rem;}
 #awards-md ul { list-style: none; padding-left: 0; }
 #awards-md li { margin-bottom: 0.5rem; border-bottom: 1px solid rgba(255,255,255,0.1); padding-bottom: 0.5rem;}
+
+/* 自定义首页 Hero 区域的大按钮样式 */
+header.masthead .btn-xl {
+    font-size: 1.5rem;       /* 字体大小：数字越大，字越大 (默认约 1rem) */
+    padding: 1.5rem 3rem;    /* 按钮框大小：第一个数字是【上下】高度，第二个数字是【左右】宽度 */
+}
