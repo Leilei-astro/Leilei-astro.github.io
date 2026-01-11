@@ -2,7 +2,7 @@
     <div class="row g-0 align-items-center">
         <div class="col-lg-5">
             <div class="research-img-wrapper">
-                <img src="static/assets/img/lensArc.png" alt="Dark Matter">
+                <img src="static/assets/img/lensArc.jpg" alt="Dark Matter">
             </div>
         </div>
         <div class="col-lg-7">
