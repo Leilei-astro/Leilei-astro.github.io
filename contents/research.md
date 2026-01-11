@@ -49,7 +49,7 @@
     <div class="row g-0 align-items-center">
         <div class="col-lg-5">
             <div class="research-img-wrapper">
-                <img src="static/assets/img/DEBH2.png" alt="Cosmology">
+                <img src="static/assets/img/Omega.png" alt="Cosmology">
             </div>
         </div>
         <div class="col-lg-7">
