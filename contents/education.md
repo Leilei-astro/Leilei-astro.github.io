@@ -10,4 +10,5 @@
 ### Bachelor in Astronomy
 * **Yunnan University (YNU)** (2017 — 2021)
 * *Outstanding Graduate*
+* Undergraduate Science Project Advisor: <strong>Bing-Qiu Chen</strong> ([[陈丙秋]](https://baike.baidu.com/item/%E9%99%88%E4%B8%99%E7%A7%8B/64040029))
 * Thesis Advisors: **Peng-Fei Zhang** (张鹏飞) & **Yi-Zhong Fan** (范一中)
