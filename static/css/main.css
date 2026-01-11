@@ -130,8 +130,20 @@ header.masthead {
 
 /* 自定义首页 Hero 区域的大按钮样式 */
 header.masthead .btn-xl {
-    font-size: 1.5rem;       /* 字体大小：数字越大，字越大 (默认约 1rem) */
-    padding: 1.5rem 3rem;    /* 按钮框大小：第一个数字是【上下】高度，第二个数字是【左右】宽度 */
+    /* 之前调整大小的代码 */
+    font-size: 1.5rem;      
+    padding: 1.5rem 3rem;   
+    
+    /* --- 新增：修改颜色 --- */
+    background-color: #000000;  /* 这里填你想要的背景颜色代码 */
+    border-color: #ff5733;      /* 建议和背景色保持一致 */
+    color: #ffffff;             /* 字体颜色（通常是白色） */
+}
+
+/* --- 新增：修改鼠标悬停时的颜色 (可选) --- */
+header.masthead .btn-xl:hover {
+    background-color: #c70039;  /* 鼠标放上去变深一点 */
+    border-color: #c70039;
 }
 
 /* 强制增加最大宽度 */
