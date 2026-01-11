@@ -53,7 +53,7 @@ header.masthead {
 }
 
 /* Sections */
-.page-section { padding: 6rem 0; }
+.page-section { padding: 2rem 0; }
 .section-heading { font-size: 2.5rem; margin-bottom: 1rem; color: var(--primary-color); }
 .divider-primary { max-width: 3.25rem; border-width: 0.2rem; border-color: var(--secondary-color); margin: 1.5rem auto; opacity: 1; border-style: solid; }
 .divider-light { max-width: 3.25rem; border-width: 0.2rem; border-color: #fff; margin: 1.5rem auto; opacity: 1; border-style: solid; }
@@ -133,3 +133,15 @@ header.masthead .btn-xl {
     font-size: 1.5rem;       /* 字体大小：数字越大，字越大 (默认约 1rem) */
     padding: 1.5rem 3rem;    /* 按钮框大小：第一个数字是【上下】高度，第二个数字是【左右】宽度 */
 }
+
+/* 强制增加最大宽度 */
+@media (min-width: 1200px) {
+    .container {
+        max-width: 1400px !important; /* 原来通常是 1140px */
+    }
+}
+/* 或者直接让它占屏幕的 90% */
+/* .container {
+    max-width: 90% !important;
+} 
+*/
