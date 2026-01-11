@@ -46,7 +46,7 @@
 </div>
 
 <div class="research-card">
-    <div class="row g-0 align-items-center flex-row-reverse">
+    <div class="row g-0 align-items-center">
         <div class="col-lg-5">
             <div class="research-img-wrapper">
                 <img src="static/assets/img/DEBH2.png" alt="Cosmology">
@@ -60,8 +60,35 @@
                     Developing new method for cosmological model analysis.
                 </p>
                 <div class="tags-container">
-                    <span class="research-tag">Sky Surveys</span>
-                    <span class="research-tag">cosmic expansion</span>
+                    <span class="research-tag">Cosmological Model</span>
+                    <span class="research-tag">Cosmic Chronometer</span>
+                    <span class="research-tag">Cosmological Parameters</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="research-card">
+    <div class="row g-0 align-items-center flex-row-reverse">
+        <div class="col-lg-5">
+            <div class="research-img-wrapper">
+                <img src="static/assets/img/DEBH2.png" alt="Survey Projects">
+            </div>
+        </div>
+        <div class="col-lg-7">
+            <div class="research-body">
+                <h3 class="research-title">Sky Survey</h3>
+                <p class="research-desc">
+                    Utilizing data from high redshift observations (e.g., JWST/SKA) to measure cosmological parameters.
+                    Developing new method for cosmological model analysis.
+                </p>
+                <div class="tags-container">
+                    <span class="research-tag">Telescopes</span>
+                    <span class="research-tag">Limiting Magnitudes</span>
+                    <span class="research-tag">X-ray/Optical Transients</span>
                 </div>
             </div>
         </div>
