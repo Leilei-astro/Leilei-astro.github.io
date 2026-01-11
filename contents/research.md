@@ -9,7 +9,8 @@
             <div class="research-body">
                 <h3 class="research-title">Dark Matter</h3>
                 <p class="research-desc">
-                    Investigating the nature of dark matter through JWST high red-shift galaxies and gravitational lensing. 
+                    Investigating the nature of dark matter through JWST high red-shift galaxies. 
+                    Detecting the dark matter halo density profile with gravitational lensing. 
                     Focusing on small-scale structures of dark matter halos to constrain self-interacting/cold/Fuzzy dark matter model.
                 </p>
                 <div class="tags-container">
@@ -33,8 +34,7 @@
             <div class="research-body">
                 <h3 class="research-title">Dark Energy</h3>
                 <p class="research-desc">
-                    Searching for dark energy sources.
-                    Testing coupling between dark energy and observable physics.
+                    At present, we do not know whether dark energy is a field or where it originates, so we need to consider whether it might be produced by some astrophysical process or whether it could be related to interactions within the standard particle physics model.
                 </p>
                 <div class="tags-container">
                     <span class="research-tag">Dark Energy Sources</span>
