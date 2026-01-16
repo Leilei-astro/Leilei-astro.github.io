@@ -4,6 +4,8 @@
 
 - <strong>Lei. Lei</strong>, et al. Stringent constraint on the CCC+TL cosmology with H(z) Measurements. <strong>Under Review</strong> [[arXiv]](https://arxiv.org/abs/2508.04277)
 
+- Ze-Fan Wang*, <strong>Lei. Lei</strong>*, Yi-Zhong Fan. New H(z) measurement at Redshift = 0.12 with DESI Data Release 1. <strong>Under Review</strong> [[arXiv]](https://arxiv.org/abs/2601.07345)
+
 - Shu Niu, Qiang Yuan, Shui-Nai Zhang, <strong>Lei. Lei</strong>, et al. Detection of extended X-ray emission surrounding PSR B0656+14 with eROSITA. <strong>ApJ accepted</strong> [[arXiv]](https://arxiv.org/abs/2501.17046)
 
 #### Published
