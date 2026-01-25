@@ -157,3 +157,18 @@ header.masthead .btn-xl:hover {
     max-width: 90% !important;
 } 
 */
+/* 图片说明文字样式 */
+.figure-caption {
+    color: #555;
+    font-style: italic; /* 斜体，更有学术感 */
+    background: #f8f9fa; /* 浅灰背景 */
+    padding: 5px 10px;
+    border-radius: 5px;
+    display: inline-block;
+}
+
+/* 弹窗中的公式间距 */
+.modal-body p {
+    margin-bottom: 1.5rem; /* 让段落之间松一点 */
+    line-height: 1.8;
+}
