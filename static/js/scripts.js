@@ -1,8 +1,8 @@
 
 const content_dir = 'contents/'
 const config_file = 'config.yml'
-// 注意：删除了 home，新增了 education, research, cv
-const section_names = ['education', 'research', 'publications', 'cv', 'awards', 'links']
+// 注意：删除了 home，新增了 education, cv
+const section_names = ['education', 'publications', 'cv', 'awards', 'links']
 
 // 下面的代码保持不变...
 // (从 window.addEventListener 开始的代码都不用动)
