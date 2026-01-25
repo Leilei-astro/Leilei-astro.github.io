@@ -172,3 +172,21 @@ header.masthead .btn-xl:hover {
     margin-bottom: 1.5rem; /* 让段落之间松一点 */
     line-height: 1.8;
 }
+/* --- Research Card Interactive Style --- */
+.research-card {
+    cursor: pointer; /* 鼠标放上去变小手 */
+    position: relative;
+}
+
+/* 鼠标悬停时，稍微加深阴影，提示可点击 */
+.research-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 1rem 3rem rgba(0,0,0,0.15) !important;
+}
+
+/* 弹窗样式微调 */
+.modal-content {
+    border-radius: 1rem;
+    border: none;
+    box-shadow: 0 1rem 3rem rgba(0,0,0,0.3);
+}
