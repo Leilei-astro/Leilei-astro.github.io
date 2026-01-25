@@ -113,7 +113,120 @@
                 <hr class="divider-primary my-4" />
                 <p class="text-muted mb-0">Exploring Dark Matter, Dark Energy, and the Cosmos</p>
             </div>
-            <div id="research-md"></div>
+            <section class="page-section" id="research">
+        <div class="container">
+            <div class="text-center mb-5">
+                <h2 class="section-heading">Research Interests</h2>
+                <hr class="divider-primary my-4" />
+                <p class="text-muted mb-0">Click cards for details.</p>
+            </div>
+
+            <div class="research-card mb-5" data-bs-toggle="modal" data-bs-target="#modal1">
+                <div class="row g-0 align-items-center">
+                    <div class="col-lg-5">
+                        <div class="research-img-wrapper">
+                            <img src="static/assets/img/lensing.png" alt="Dark Matter">
+                        </div>
+                    </div>
+                    <div class="col-lg-7">
+                        <div class="research-body">
+                            <h3 class="research-title">Dark Matter & Substructures <i class="bi bi-box-arrow-up-right fs-6 ms-2 text-muted"></i></h3>
+                            <p class="research-desc">
+                                Investigating the nature of dark matter through N-body simulations...
+                                (Click to read more)
+                            </p>
+                            <div class="tags-container">
+                                <span class="research-tag">N-body Simulation</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="modal fade" id="modal1" tabindex="-1" aria-hidden="true">
+                <div class="modal-dialog modal-xl modal-dialog-centered modal-dialog-scrollable">
+                    <div class="modal-content">
+                        <div class="modal-header border-0 pb-0">
+                            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
+                        
+                        <div class="modal-body p-5">
+                            <h2 class="mb-4 text-primary">Dark Matter & Substructures</h2>
+
+                            <div class="mb-4">
+                                <p class="lead">Introduction</p>
+                                <p>
+                                    Here you can describe the background. Inline formula example: $E=mc^2$.
+                                    Display formula example:
+                                    $$ R_{\mu\nu} - \frac{1}{2}g_{\mu\nu}R = 8\pi G T_{\mu\nu} $$
+                                    You can write as much text as you want here.
+                                </p>
+                            </div>
+
+                            <div class="mb-5 text-center">
+                                <figure class="figure w-75">
+                                    <img src="static/assets/img/lensing.png" class="figure-img img-fluid rounded shadow" alt="...">
+                                    <figcaption class="figure-caption fs-6 mt-2">
+                                        Figure 1: This is a simulation result showing the substructures.
+                                    </figcaption>
+                                </figure>
+                            </div>
+
+                            <div class="mb-4">
+                                <h5>Simulation Setup</h5>
+                                <p>We used the Gadget-4 code with $N=2048^3$ particles...</p>
+                            </div>
+
+                            <div class="row mb-5">
+                                <div class="col-md-6 text-center">
+                                    <figure class="figure w-100">
+                                        <img src="static/assets/img/lensing.png" class="figure-img img-fluid rounded shadow" alt="...">
+                                        <figcaption class="figure-caption">Fig 2a: Left Panel Result.</figcaption>
+                                    </figure>
+                                </div>
+                                <div class="col-md-6 text-center">
+                                    <figure class="figure w-100">
+                                        <img src="static/assets/img/lensing.png" class="figure-img img-fluid rounded shadow" alt="...">
+                                        <figcaption class="figure-caption">Fig 2b: Right Panel Result.</figcaption>
+                                    </figure>
+                                </div>
+                            </div>
+                            
+                            <p class="text-muted small">Reference: Lei et al. 2026, ApJ, 123, 456.</p>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="research-card mb-5" data-bs-toggle="modal" data-bs-target="#modal2">
+                <div class="row g-0 align-items-center flex-row-reverse">
+                    <div class="col-lg-5">
+                        <div class="research-img-wrapper">
+                            <img src="static/assets/img/background.jpeg" alt="Cosmology">
+                        </div>
+                    </div>
+                    <div class="col-lg-7">
+                        <div class="research-body">
+                            <h3 class="research-title">Observational Cosmology</h3>
+                            <p class="research-desc">Click to view details...</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="modal fade" id="modal2" tabindex="-1" aria-hidden="true">
+                <div class="modal-dialog modal-xl modal-dialog-centered modal-dialog-scrollable">
+                    <div class="modal-content">
+                         <div class="modal-body p-5">
+                             <h2>Cosmology</h2>
+                             <p>Another research topic...</p>
+                         </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </section>
         </div>
     </section>
 
