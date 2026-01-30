@@ -6,7 +6,7 @@
 
 - Ze-Fan Wang*, <strong>Lei. Lei</strong>*, Yi-Zhong Fan. New H(z) measurement at Redshift = 0.12 with DESI Data Release 1. <strong>Under Review</strong> [[arXiv]](https://arxiv.org/abs/2601.07345)
 
-- Shang Li, Yun-Feng Liang, Neng-Hui Liao, <strong>Lei. Lei</strong>, et al. Evidence for GeV emission of the superluminous supernova SN 2017egm. <strong>PRL accepted</strong> [[arXiv]](https://arxiv.org/abs/2407.05968)
+- Shang Li, Yun-Feng Liang, Neng-Hui Liao, <strong>Lei. Lei</strong>, et al. Evidence for GeV emission of the superluminous supernova SN 2017egm. <strong>PRL accepted, Editors’ Suggestion</strong> [[arXiv]](https://arxiv.org/abs/2407.05968)
 
 
 #### Published
