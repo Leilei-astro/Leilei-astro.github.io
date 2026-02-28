@@ -2,7 +2,7 @@
 
 - <strong>Lei. Lei</strong>, et al. Black Holes in the Red-sequence Elliptical Galaxies at Redshifts ∼0.7−2.5: Not Dark Energy Source but Remanants of Little Red Dots. <strong>Under Review</strong> [[arXiv]](https://arxiv.org/abs/2506.19589)
 
-- <strong>Lei. Lei</strong>, et al. Stringent constraint on the CCC+TL cosmology with H(z) Measurements. <strong>Under Review</strong> [[arXiv]](https://arxiv.org/abs/2508.04277)
+- <strong>Lei. Lei</strong>, et al. Stringent constraint on the CCC+TL cosmology with H(z) Measurements. <strong>MNRAS accepted</strong> [[arXiv]](https://arxiv.org/abs/2508.04277)
 
 - Ze-Fan Wang*, <strong>Lei. Lei</strong>*, Yi-Zhong Fan. New H(z) measurement at Redshift = 0.12 with DESI Data Release 1. <strong>Under Review</strong> [[arXiv]](https://arxiv.org/abs/2601.07345)
 
