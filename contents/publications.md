@@ -15,7 +15,7 @@
 
 - <strong>Lei Lei</strong>,  et al. (2025). Can Dark Stars account for the star formation efficiency excess at very high redshifts?. <strong>ApJ</strong>. [[DOI]](https://doi.org/10.3847/1538-4357/ada93b)[[arXiv]](https://arxiv.org/abs/2501.07119)
 
-- <strong>Lei. Lei</strong>, et al. (2026). Stringent constraint on the CCC+TL cosmology with H(z) Measurements. <strong>MNRAS</strong>. [[DOI]](https://doi.org/10.1093/mnras/stag430) [[arXiv]](https://arxiv.org/abs/2508.04277)
+- <strong>Lei Lei</strong>, et al. (2026). Stringent constraint on the CCC+TL cosmology with H(z) Measurements. <strong>MNRAS</strong>. [[DOI]](https://doi.org/10.1093/mnras/stag430) [[arXiv]](https://arxiv.org/abs/2508.04277)
 
 - <strong>Lei Lei</strong>, et al. (2023). Limiting Magnitudes of the Wide Field Survey Telescope (WFST). <strong>RAA</strong>.  <strong>[[Journal Highlight]](https://www.raa-journal.org/issues/high/202303/t20230328_161494.html)</strong> [[DOI]](https://doi.org/10.1088/1674-4527/acb877)[[arXiv]](https://arxiv.org/abs/2301.03068)[[Code-Github]](https://github.com/Leilei-astro/WFST-limiting-magnitudes) 
 
