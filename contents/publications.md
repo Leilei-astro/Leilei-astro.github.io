@@ -32,11 +32,11 @@
 
 - Zi-Wei Wang*, <strong>Lei Lei</strong>, et al. (2023). The nanohertz stochastic gravitational wave background from cosmic string loops and the abundant high redshift massive galaxies. <strong>SCPMA</strong>. <strong>[[ESI highly cited]](https://mp.weixin.qq.com/s/CCWL1D8Jp5CX4Q3h29EBKg)</strong>  [[DOI]](https://doi.org/10.1007/s11433-023-2262-0)[[arXiv]](https://arxiv.org/abs/2306.17150)
 
-- Yi-Ying Wang, <strong>Lei. Lei</strong>, et al. Lensing amplitude anomaly and varying electron mass alleviate the Hubble and S8 tensions. <strong>JCAP</strong> [[DOI]](https://doi.org/10.1088/1475-7516/2026/01/009) [[arXiv]](https://arxiv.org/abs/2508.19081)
+- Yi-Ying Wang, <strong>Lei. Lei</strong>, et al. (2026) Lensing amplitude anomaly and varying electron mass alleviate the Hubble and S8 tensions. <strong>JCAP</strong> [[DOI]](https://doi.org/10.1088/1475-7516/2026/01/009) [[arXiv]](https://arxiv.org/abs/2508.19081)
 
-- Shang Li, Yun-Feng Liang, Neng-Hui Liao, <strong>Lei. Lei</strong>, et al. Evidence for GeV emission of the superluminous supernova SN 2017egm. <strong>PRL, Editors’ Suggestion</strong>. <strong>[[Journal Highlight]](https://mp.weixin.qq.com/s/BcrJpXPkysnSAshhMzQtmQ?scene=1&click_id=9)</strong>  [[DOI]](https://doi.org/10.1103/jhhk-ywtl)
+- Shang Li, Yun-Feng Liang, Neng-Hui Liao, <strong>Lei. Lei</strong>, et al. (2026). Evidence for GeV emission of the superluminous supernova SN 2017egm. <strong>PRL, Editors’ Suggestion</strong>. <strong>[[Journal Highlight]](https://mp.weixin.qq.com/s/BcrJpXPkysnSAshhMzQtmQ?scene=1&click_id=9)</strong>  [[DOI]](https://doi.org/10.1103/jhhk-ywtl)  [[arXiv]](https://arxiv.org/abs/2407.05968)
 
-- Shu Niu, Qiang Yuan, Shui-Nai Zhang, <strong>Lei. Lei</strong>, et al. Possible Evidence for Extended X-Ray Emission Surrounding PSR B0656+14 with eROSITA. <strong>ApJ</strong> [[DOI]](https://doi.org/10.3847/1538-4357/ae3466) [[arXiv]](https://arxiv.org/abs/2501.17046)
+- Shu Niu, Qiang Yuan, Shui-Nai Zhang, <strong>Lei. Lei</strong>, et al. (2026). Possible Evidence for Extended X-Ray Emission Surrounding PSR B0656+14 with eROSITA. <strong>ApJ</strong> [[DOI]](https://doi.org/10.3847/1538-4357/ae3466) [[arXiv]](https://arxiv.org/abs/2501.17046)
 
 - Hao Zhou, Zhi-Ping Jin*, Stefano Covino, <strong>Lei Lei</strong>, et al. (2023). GRB 080503: A Very Early Blue Kilonova and an Adjacent Nonthermal Radiation Component. <strong>ApJ</strong>. [[DOI]](https://doi.org/10.3847/1538-4357/acac9b)[[arXiv]](https://arxiv.org/abs/2212.08555)
 
