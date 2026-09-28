@@ -1,6 +1,8 @@
 #### Preprint
 
-- <strong>Lei. Lei</strong>, et al. Black Holes in the Red-sequence Elliptical Galaxies at Redshifts ∼0.7−2.5: Not Dark Energy Source but Remanants of Little Red Dots. <strong>Under Review</strong> [[arXiv]](https://arxiv.org/abs/2506.19589)
+- Bo Zhang, Chi Zhang, <strong>Lei. Lei</strong>, et al. Searching for Solar-Basin Axionlike-Particle Decay with XMM-Newton Blank-Sky Observations. <strong>Under Review</strong> [[arXiv]](https://arxiv.org/abs/2608.24161)
+
+- Hao Wang, Ore Gottlieb, Aman Katira, Muskan Yadav, <strong>Lei. Lei</strong>, et al. The Very Late Time Afterglow of GW170817 Favors a Wobbling Jet. <strong>Under Review</strong> [[arXiv]](https://arxiv.org/abs/2605.13719)
 
 #### Published
 
@@ -9,6 +11,8 @@
 - <strong>Lei Lei</strong>, et al. (2024). Black holes as the source of dark energy: A stringent test with high-redshift JWST AGNs. SCIENCE CHINA Physics, Mechanics \& Astronomy<strong>(SCPMA)</strong>. <strong>[[Journal Highlight]](https://mp.weixin.qq.com/s/rzg8QB1PPjAAYCZgdi1AyA) & [[ESI highly cited]](https://mp.weixin.qq.com/s/CCWL1D8Jp5CX4Q3h29EBKg)</strong>  [[DOI]](https://doi.org/10.1007/s11433-023-2233-2)[[arXiv]](https://arxiv.org/abs/2305.03408) 
 
 - <strong>Lei Lei</strong>,  et al. (2025). Can Dark Stars account for the star formation efficiency excess at very high redshifts?. <strong>ApJ</strong>. [[DOI]](https://doi.org/10.3847/1538-4357/ada93b)[[arXiv]](https://arxiv.org/abs/2501.07119)
+
+- <strong>Lei. Lei</strong>, et al. Black Holes in the Red-sequence Elliptical Galaxies at Redshifts ∼0.7−2.5: Not Dark Energy Source but Remanants of Little Red Dots. <strong>A\&A Letter in press</strong> [[arXiv]](https://arxiv.org/abs/2506.19589)
 
 - <strong>Lei Lei</strong>, et al. (2026). Stringent constraint on the CCC+TL cosmology with H(z) Measurements. <strong>MNRAS</strong>. [[DOI]](https://doi.org/10.1093/mnras/stag430) [[arXiv]](https://arxiv.org/abs/2508.04277)
 
